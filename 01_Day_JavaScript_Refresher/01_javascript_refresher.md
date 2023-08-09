@@ -54,9 +54,9 @@
       - [Sorting elements in array](#sorting-elements-in-array)
     - [Array of arrays](#array-of-arrays)
   - [💻 Exercise](#-exercise)
-      - [Exercise: Level 1](#exercise-level-1)
-      - [Exercise: Level 2](#exercise-level-2)
-      - [Exercise: Level 3](#exercise-level-3)
+    - [Exercise: Level 1](#exercise-level-1)
+    - [Exercise: Level 2](#exercise-level-2)
+    - [Exercise: Level 3](#exercise-level-3)
   - [4. Conditionals](#4-conditionals)
     - [If](#if)
     - [If Else](#if-else)
@@ -64,9 +64,9 @@
     - [Switch](#switch)
     - [Ternary Operators](#ternary-operators)
   - [💻 Exercises](#-exercises)
-      - [Exercises: Level 1](#exercises-level-1)
-      - [Exercises: Level 2](#exercises-level-2)
-      - [Exercises: Level 3](#exercises-level-3)
+    - [Exercises: Level 1](#exercises-level-1)
+    - [Exercises: Level 2](#exercises-level-2)
+    - [Exercises: Level 3](#exercises-level-3)
   - [5. Loops](#5-loops)
     - [Types of Loops](#types-of-loops)
       - [1. for](#1-for)
@@ -95,9 +95,9 @@
       - [Getting object keys and values using Object.entries()](#getting-object-keys-and-values-using-objectentries)
       - [Checking properties using hasOwnProperty()](#checking-properties-using-hasownproperty)
   - [💻 Exercises](#-exercises-1)
-      - [Exercises: Level 1](#exercises-level-1-1)
-      - [Exercises: Level 2](#exercises-level-2-1)
-      - [Exercises: Level 3](#exercises-level-3-1)
+    - [Exercises: Level 1](#exercises-level-1-1)
+    - [Exercises: Level 2](#exercises-level-2-1)
+    - [Exercises: Level 3](#exercises-level-3-1)
   - [8. Functions](#8-functions)
     - [Function Declaration](#function-declaration)
     - [Function without a parameter and return](#function-without-a-parameter-and-return)
@@ -115,9 +115,9 @@
     - [Function with default parameters](#function-with-default-parameters)
     - [Function declaration versus Arrow function](#function-declaration-versus-arrow-function)
   - [💻 Exercises](#-exercises-2)
-      - [Exercises: Level 1](#exercises-level-1-2)
-      - [Exercises: Level 2](#exercises-level-2-2)
-      - [Exercises: Level 3](#exercises-level-3-2)
+    - [Exercises: Level 1](#exercises-level-1-2)
+    - [Exercises: Level 2](#exercises-level-2-2)
+    - [Exercises: Level 3](#exercises-level-3-2)
   - [9. Higher Order Function](#9-higher-order-function)
     - [Callback](#callback)
     - [Returning function](#returning-function)
@@ -1028,7 +1028,7 @@ const webTechs = [
 ##### Exercise: Level 3
 
 1. The following is an array of 10 students ages:
-   `js const ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24] ` - Sort the array and find the min and max age - Find the median age(one middle item or two middle items divided by two) - Find the average age(all items divided by number of items) - Find the range of the ages(max minus min) - Compare the value of (min - average) and (max - average), use _abs()_ method
+   `js const ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]` - Sort the array and find the min and max age - Find the median age(one middle item or two middle items divided by two) - Find the average age(all items divided by number of items) - Find the range of the ages(max minus min) - Compare the value of (min - average) and (max - average), use _abs()_ method
 
    1.Slice the first ten countries from the [countries array](https://github.com/Asabeneh/30DaysOfJavaScript/tree/master/data/countries.js)
 
@@ -2674,7 +2674,7 @@ sum(1, 2, 3) // -> 6
 sum(1, 2, 3, 4) // -> 10
 ```
 
-1.  Declare a function name _userIdGenerator_. When this function is called it generates seven character id. The function return the id.
+1. Declare a function name _userIdGenerator_. When this function is called it generates seven character id. The function return the id.
 
 ```sh
 console.log(userIdGenerator());
